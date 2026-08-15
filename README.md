@@ -18,16 +18,15 @@
 ## 👨‍💻 About Me
 
 ```yaml
-role:       Computer Engineering Student @ Baku Engineering University
-focus:      Cybersecurity | Penetration Testing | Red Teaming
-interests:  [Web Security, Network Security, Vulnerability Research]
-platform:   Linux / Kali Linux
-status:     Currently exploring CVE research & responsible disclosure
-building:   Deliberately vulnerable apps + security tooling, for practical learning
+role:        Computer Engineering Student @ Baku Engineering University (3rd year)
+focus:       Red Team Operations | Penetration Testing
+interests:   Web Security, Network Security, Vulnerability Research
+ctf:         TryHackMe & Hack The Box — active player
+certs:       The SecOps Group · Cisco · Coursera · BEU ICT Lab
+status:      Sharpening exploitation & web-app pentest skills
+learning:    Advanced Web App Security | Exploit Development | Active Directory Security
+note:        I break systems so others can sleep at night 🔓
 ```
-
-> 🧭 Currently learning: **Advanced Web App Security · Exploit Development · Active Directory Security**
-> — going deep before going wide.
 
 <br>
 
@@ -48,7 +47,7 @@ building:   Deliberately vulnerable apps + security tooling, for practical learn
 ![IDOR](https://img.shields.io/badge/IDOR_/_BOLA-000000?style=flat-square)
 ![LFI/RFI](https://img.shields.io/badge/LFI_/_RFI-000000?style=flat-square)
 ![Command Injection](https://img.shields.io/badge/Command_Injection-000000?style=flat-square)
-![Insecure Deserialization](https://img.shields.io/badge/Insecure_Deserialization-000000?style=flat-square)
+![Deserialization](https://img.shields.io/badge/Insecure_Deserialization-000000?style=flat-square)
 ![Auth/Session](https://img.shields.io/badge/Auth_%26_Session_Flaws-000000?style=flat-square)
 
 </td>
@@ -106,6 +105,8 @@ building:   Deliberately vulnerable apps + security tooling, for practical learn
 ![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logo=nmap&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 `Nuclei` `ffuf` `Gobuster` `Feroxbuster` `Nikto` `WPScan` `Subfinder` `Amass` `Hashcat` `John the Ripper`
 
@@ -123,6 +124,8 @@ building:   Deliberately vulnerable apps + security tooling, for practical learn
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -163,7 +166,7 @@ building:   Deliberately vulnerable apps + security tooling, for practical learn
 
 *A deliberately vulnerable banking web application built for cybersecurity education and penetration-testing practice — inspired by the OWASP Top 10 and real-world web vulnerabilities.*
 
-`PHP 8` `MySQL` `Bootstrap` — includes embedded BOLA/IDOR flaws, a full tiered vulnerability audit, and a custom-designed UI.
+`PHP 8` `MySQL` `Bootstrap` — embedded BOLA/IDOR flaws, a full tiered vulnerability audit, and a custom-designed UI.
 
 [![Repo](https://img.shields.io/badge/View_Repository-00FF41?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Sultan0f1/YOUR_NEXUS_REPO)
 
