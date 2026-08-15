@@ -80,4 +80,3 @@ $ ./run_stats.sh
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%"/>
 
 </div>
-
