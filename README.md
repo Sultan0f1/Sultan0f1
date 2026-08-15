@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=SULTAN0F1&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Red%20Team%20%26%20Pentesting&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=SULTAN0F1&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Red%20Team%20and%20Pentesting&descAlignY=58&descAlign=50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=root%40sultan%3A~%23+whoami;Computer+Engineering+%40+Baku+Engineering+University;Red+Teaming+%7C+Web+Security+%7C+Vulnerability+Research;Currently+hunting+CVEs+and+breaking+things+responsibly" alt="Typing SVG" />
 
@@ -21,11 +21,11 @@
 role:        Computer Engineering Student @ Baku Engineering University (3rd year)
 focus:       Red Team Operations | Penetration Testing
 interests:   Web Security, Network Security, Vulnerability Research
-ctf:         TryHackMe & Hack The Box — active player
-certs:       The SecOps Group · Cisco · Coursera · BEU ICT Lab
-status:      Sharpening exploitation & web-app pentest skills
+ctf:         TryHackMe and Hack The Box - active player
+certs:       The SecOps Group, Cisco, Coursera, BEU ICT Lab
+status:      Sharpening exploitation and web-app pentest skills
 learning:    Advanced Web App Security | Exploit Development | Active Directory Security
-note:        I break systems so others can sleep at night 🔓
+note:        I break systems so others can sleep at night
 ```
 
 <br>
@@ -44,11 +44,11 @@ note:        I break systems so others can sleep at night 🔓
 ![CSRF](https://img.shields.io/badge/CSRF-000000?style=flat-square)
 ![XXE](https://img.shields.io/badge/XXE-000000?style=flat-square)
 ![SSRF](https://img.shields.io/badge/SSRF-000000?style=flat-square)
-![IDOR](https://img.shields.io/badge/IDOR_/_BOLA-000000?style=flat-square)
-![LFI/RFI](https://img.shields.io/badge/LFI_/_RFI-000000?style=flat-square)
+![IDOR](https://img.shields.io/badge/IDOR_BOLA-000000?style=flat-square)
+![LFI/RFI](https://img.shields.io/badge/LFI_RFI-000000?style=flat-square)
 ![Command Injection](https://img.shields.io/badge/Command_Injection-000000?style=flat-square)
 ![Deserialization](https://img.shields.io/badge/Insecure_Deserialization-000000?style=flat-square)
-![Auth/Session](https://img.shields.io/badge/Auth_%26_Session_Flaws-000000?style=flat-square)
+![Auth/Session](https://img.shields.io/badge/Auth_and_Session_Flaws-000000?style=flat-square)
 
 </td>
 <td valign="top" width="50%">
@@ -71,8 +71,8 @@ note:        I break systems so others can sleep at night 🔓
 
 **📡 Networking**
 
-![TCP/IP](https://img.shields.io/badge/TCP/IP-000000?style=flat-square)
-![HTTP/HTTPS](https://img.shields.io/badge/HTTP_/_HTTPS-000000?style=flat-square)
+![TCP/IP](https://img.shields.io/badge/TCP_IP-000000?style=flat-square)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP_HTTPS-000000?style=flat-square)
 ![DNS](https://img.shields.io/badge/DNS-000000?style=flat-square)
 ![Network Enum](https://img.shields.io/badge/Network_Enumeration-000000?style=flat-square)
 ![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-000000?style=flat-square)
@@ -88,8 +88,8 @@ note:        I break systems so others can sleep at night 🔓
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00ff41)
 ![Administration](https://img.shields.io/badge/Linux_Administration-000000?style=flat-square)
 ![Permissions](https://img.shields.io/badge/Permissions-000000?style=flat-square)
-![Processes](https://img.shields.io/badge/Processes_%26_Services-000000?style=flat-square)
-![SUID/SGID](https://img.shields.io/badge/SUID_/_SGID-000000?style=flat-square)
+![Processes](https://img.shields.io/badge/Processes_and_Services-000000?style=flat-square)
+![SUID/SGID](https://img.shields.io/badge/SUID_SGID-000000?style=flat-square)
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ note:        I break systems so others can sleep at night 🔓
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -164,9 +164,9 @@ note:        I break systems so others can sleep at night 🔓
 
 ### 🏦 Nexus Demo
 
-*A deliberately vulnerable banking web application built for cybersecurity education and penetration-testing practice — inspired by the OWASP Top 10 and real-world web vulnerabilities.*
+*A deliberately vulnerable banking web application built for cybersecurity education and penetration-testing practice, inspired by the OWASP Top 10 and real-world web vulnerabilities.*
 
-`PHP 8` `MySQL` `Bootstrap` — embedded BOLA/IDOR flaws, a full tiered vulnerability audit, and a custom-designed UI.
+`PHP 8` `MySQL` `Bootstrap` - embedded BOLA/IDOR flaws, a full tiered vulnerability audit, and a custom-designed UI.
 
 [![Repo](https://img.shields.io/badge/View_Repository-00FF41?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Sultan0f1/YOUR_NEXUS_REPO)
 
@@ -197,7 +197,7 @@ note:        I break systems so others can sleep at night 🔓
 [+] Connection established...
 [+] Status: OPEN TO OPPORTUNITIES
 [+] Type: Red Team / Pentest Internship or Junior Role
-[+] Note: Still learning — approaching things with curiosity, not overclaiming expertise.
+[+] Note: Still learning - approaching things with curiosity, not overclaiming expertise.
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0d1117&height=120&section=footer"/>
