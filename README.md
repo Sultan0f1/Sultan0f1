@@ -28,55 +28,6 @@ I'm a Computer Engineering student at Baku Engineering University with a focus o
 
 <br>
 
-### Education
-
-<table>
-<tr>
-<td width="70%">
-
-**Baku Engineering University**
-Computer Engineering
-
-</td>
-<td width="30%" align="right">
-
-2024 - 2028
-
-</td>
-</tr>
-<tr>
-<td width="70%">
-
-**Millisec Cybersecurity Training Center**
-Red Team Security Training
-
-</td>
-<td width="30%" align="right">
-
-2026 - present
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### Certifications
-
-<div align="center">
-
-![CNSP](https://img.shields.io/badge/CNSP-The_SecOps_Group-00FF41?style=for-the-badge&logoColor=000)
-![BoostCamp Red Team](https://img.shields.io/badge/BoostCamp_9.0-Red_Team-00FF41?style=for-the-badge&logoColor=000)
-![BoostCamp Blue Team](https://img.shields.io/badge/BoostCamp_9.0-Blue_Team-00FF41?style=for-the-badge&logoColor=000)
-![Cisco](https://img.shields.io/badge/Intro_to_Cybersecurity-Cisco-00FF41?style=for-the-badge&logo=cisco&logoColor=000)
-![CCSC](https://img.shields.io/badge/CCSC-Hack_and_Fix-00FF41?style=for-the-badge&logoColor=000)
-![CPPS](https://img.shields.io/badge/CPPS-Hack_and_Fix-00FF41?style=for-the-badge&logoColor=000)
-![ICIP](https://img.shields.io/badge/ICIP-OPSWAT_Academy-00FF41?style=for-the-badge&logoColor=000)
-
-</div>
-
-<br>
-
 ### Tech Stack
 
 <div align="center">
