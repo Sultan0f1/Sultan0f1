@@ -8,7 +8,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sultan0f1&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000)](https://www.linkedin.com/in/nicat-sultanov)
-[![Gmail](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000)](mailto:n.sultan0f1@gmail.com)
 
 </div>
 
