@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=SULTANOFF&fontSize=65&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Junior%20Penetration%20Tester%20%7C%20Red%20Team%20and%20Web%20Security&descAlignY=56&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=220&section=header&text=Nicat Sultanov&fontSize=65&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Junior%20Penetration%20Tester%20%7C%20Red%20Team%20and%20Web%20Security&descAlignY=56&descAlign=50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Computer+Engineering+%40+Baku+Engineering+University;Focused+on+Red+Teaming+and+Penetration+Testing;Currently+training+in+Red+Team+Security+at+Millisec" alt="Typing SVG" />
 
