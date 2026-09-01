@@ -67,7 +67,7 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 | Project | Advisory | Research area |
 | :--- | :--- | :--- |
-| **FileRise** | [GHSA-c55h-jw23-wqw8](https://github.com/error311/FileRise/security/advisories/GHSA-c55h-jw23-wqw8) | Security advisory |
+| **FileRise** | [GHSA-c55h-jw23-wqw8](https://github.com/error311/FileRise/security/advisories/GHSA-c55h-jw23-wqw8) | HTML Injection via Folder Names |
 | **Tugtainer** | [GHSA-qpp3-6vj5-v5rc](https://github.com/Quenary/tugtainer/security/advisories/GHSA-qpp3-6vj5-v5rc) | Registry credential disclosure |
 | **Tugtainer** | [GHSA-4chr-wwvc-fwwp](https://github.com/Quenary/tugtainer/security/advisories/GHSA-4chr-wwvc-fwwp) | Notification SSRF protection bypass |
 | **Tugtainer** | [GHSA-8gvw-9ww4-xrc8](https://github.com/Quenary/tugtainer/security/advisories/GHSA-8gvw-9ww4-xrc8) | DNS-rebinding SSRF with response readback |
