@@ -128,19 +128,6 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 ---
 
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/Sultan0f1">
-  <img src="https://img.shields.io/badge/GitHub-%40Sultan0f1-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub @Sultan0f1" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nicat-sultanov">
-  <img src="https://img.shields.io/badge/LinkedIn-Nicat_Sultanov-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-</a>
-
-<br />
 <br />
 
 **Open to penetration-testing and red-team internships, collaborations and junior opportunities.**
