@@ -131,6 +131,8 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 <br />
 
+--- 
+
 <sub>Security research performed responsibly and only on authorized targets.</sub>
 
 </div>
