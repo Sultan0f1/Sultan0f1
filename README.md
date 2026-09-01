@@ -145,8 +145,6 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
     alt="GitHub followers"
   />
   <img
-    src="https://komarev.com/ghpvc/?username=Sultan0f1&style=flat-square&label=Profile+Views&color=0e75b6"
-    alt="Profile views"
   />
 </p>
 
