@@ -116,22 +116,38 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 <div align="center">
 
+<h3>Explore My Cybersecurity Work</h3>
+
 <p>
-  Security research, vulnerability disclosures, and cybersecurity projects.
+  Security research, vulnerability disclosures, penetration-testing tools,
+  and open-source projects.
 </p>
 
-<a href="https://github.com/Sultan0f1">
+<p>
+  <a href="https://github.com/Sultan0f1">
+    <img
+      src="https://img.shields.io/badge/Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Visit GitHub profile"
+    />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sultan0f1?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/Explore_Repositories-238636?style=for-the-badge&logo=git&logoColor=white"
+      alt="Explore repositories"
+    />
+  </a>
+</p>
+
+<p>
   <img
-    src="https://img.shields.io/badge/GitHub-%40Sultan0f1-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub profile"
+    src="https://img.shields.io/github/followers/Sultan0f1?style=flat-square&logo=github&label=Followers&color=238636"
+    alt="GitHub followers"
   />
-</a>
-&nbsp;
-<a href="https://github.com/Sultan0f1?tab=repositories">
   <img
-    src="https://img.shields.io/badge/Explore-Repositories-238636?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub repositories"
+    src="https://komarev.com/ghpvc/?username=Sultan0f1&style=flat-square&label=Profile+Views&color=0e75b6"
+    alt="Profile views"
   />
-</a>
+</p>
 
 </div>
