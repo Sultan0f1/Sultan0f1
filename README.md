@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mr-robot.gif" width="100%" alt="Mr. Robot — dark cybersecurity banner" />
+<img src="./mr-robot.gif" width="100%" alt="Mr. Robot — dark cybersecurity banner" />
 
 <br />
 
@@ -42,42 +42,12 @@ My goal is straightforward: understand systems deeply, validate findings careful
 
 ---
 
-## Focus areas
+## Focus
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**01 // WEB APPLICATION SECURITY**
-
-Authorization, business logic and API testing with a focus on reproducible impact.
-
-</td>
-<td width="50%" valign="top">
-
-**02 // ACTIVE DIRECTORY**
-
-Enumeration, Kerberos and NTLM fundamentals, BloodHound analysis and attack-path mapping.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**03 // SECURITY RESEARCH**
-
-Open-source code review, vulnerability validation, CVSS/CWE mapping and responsible disclosure.
-
-</td>
-<td width="50%" valign="top">
-
-**04 // PENTEST AUTOMATION**
-
-Evidence-first recon, deterministic validation and structured security reporting.
-
-</td>
-</tr>
-</table>
+- **Web Application & API Security** — authorization, business logic and server-side vulnerability testing.
+- **Vulnerability Research** — source-code review, reproducible PoCs, CVSS/CWE mapping and responsible disclosure.
+- **Active Directory & Red Teaming** — enumeration, Kerberos/NTLM fundamentals and attack-path analysis.
+- **Security Automation** — evidence-first recon, deterministic validation and structured reporting.
 
 ---
 
@@ -95,11 +65,12 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 ## Selected security research
 
-| Advisory | Finding |
-| :--- | :--- |
-| [GHSA-42g3-q4g2-m9vg](https://github.com/poweradmin/poweradmin/security/advisories/GHSA-42g3-q4g2-m9vg) | Poweradmin — CSRF in bulk zone deletion |
-| [GHSA-4chr-wwvc-fwwp](https://github.com/Quenary/tugtainer/security/advisories/GHSA-4chr-wwvc-fwwp) | Tugtainer — notification SSRF protection bypass |
-| [GHSA-8gvw-9ww4-xrc8](https://github.com/Quenary/tugtainer/security/advisories/GHSA-8gvw-9ww4-xrc8) | Tugtainer — DNS-rebinding SSRF with response readback |
+| Project | Advisory | Research area |
+| :--- | :--- | :--- |
+| **FileRise** | [GHSA-c55h-jw23-wqw8](https://github.com/error311/FileRise/security/advisories/GHSA-c55h-jw23-wqw8) | Security advisory |
+| **Tugtainer** | [GHSA-qpp3-6vj5-v5rc](https://github.com/Quenary/tugtainer/security/advisories/GHSA-qpp3-6vj5-v5rc) | Registry credential disclosure |
+| **Tugtainer** | [GHSA-4chr-wwvc-fwwp](https://github.com/Quenary/tugtainer/security/advisories/GHSA-4chr-wwvc-fwwp) | Notification SSRF protection bypass |
+| **Tugtainer** | [GHSA-8gvw-9ww4-xrc8](https://github.com/Quenary/tugtainer/security/advisories/GHSA-8gvw-9ww4-xrc8) | DNS-rebinding SSRF with response readback |
 
 <sub>Research is conducted only on authorized targets and disclosed responsibly.</sub>
 
@@ -141,24 +112,19 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 ---
 
-## GitHub activity
+## GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sultan0f1&custom_title=Nicat%20Sultanov%27s%20GitHub%20Stats&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9&ring_color=FFFFFF" alt="Nicat Sultanov's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultan0f1&custom_title=Languages&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="Most used languages" />
+<a href="https://github.com/Sultan0f1">
+  <img src="https://img.shields.io/badge/Profile-%40Sultan0f1-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile @Sultan0f1" />
+</a>
+&nbsp;
+<a href="https://github.com/Sultan0f1?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Repositories-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View GitHub repositories" />
+</a>
 
 </div>
-
----
-
-## Roadmap
-
-```text
-NOW       Web application security · Active Directory · Security research
-NEXT      Advanced red-team tradecraft · Exploit development fundamentals
-LONG TERM Professional penetration testing · High-quality vulnerability research
-```
 
 ---
 
@@ -181,6 +147,6 @@ LONG TERM Professional penetration testing · High-quality vulnerability researc
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161B22,100:FFFFFF&height=95&section=footer" width="100%" alt="Black and white footer" />
+<sub>Security research performed responsibly and only on authorized targets.</sub>
 
 </div>
