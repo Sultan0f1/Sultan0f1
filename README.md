@@ -139,13 +139,4 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
   </a>
 </p>
 
-<p>
-  <img
-    src="https://img.shields.io/github/followers/Sultan0f1?style=flat-square&logo=github&label=Followers&color=238636"
-    alt="GitHub followers"
-  />
-  <img
-  />
-</p>
-
 </div>
