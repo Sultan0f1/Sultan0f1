@@ -129,10 +129,9 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 **Open to penetration-testing and red-team internships, collaborations and junior opportunities.**
 
-<br />
-
---- 
-
+<br/>
+<br/>
+ 
 <sub>Security research performed responsibly and only on authorized targets.</sub>
 
 </div>
