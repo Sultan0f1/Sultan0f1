@@ -67,7 +67,7 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 | Project | Advisory | Research area |
 | :--- | :--- | :--- |
-| **FileRise** | [GHSA-c55h-jw23-wqw8](https://github.com/error311/FileRise/security/advisories/GHSA-c55h-jw23-wqw8) | HTML Injection via Folder Names |
+| **FileRise** | [GHSA-c55h-jw23-wqw8](https://github.com/error311/FileRise/security/advisories/GHSA-c55h-jw23-wqw8) | Security advisory |
 | **Tugtainer** | [GHSA-qpp3-6vj5-v5rc](https://github.com/Quenary/tugtainer/security/advisories/GHSA-qpp3-6vj5-v5rc) | Registry credential disclosure |
 | **Tugtainer** | [GHSA-4chr-wwvc-fwwp](https://github.com/Quenary/tugtainer/security/advisories/GHSA-4chr-wwvc-fwwp) | Notification SSRF protection bypass |
 | **Tugtainer** | [GHSA-8gvw-9ww4-xrc8](https://github.com/Quenary/tugtainer/security/advisories/GHSA-8gvw-9ww4-xrc8) | DNS-rebinding SSRF with response readback |
@@ -116,27 +116,37 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 <div align="center">
 
-<h3>Explore My Cybersecurity Work</h3>
+<a href="https://github.com/Sultan0f1">
+  <img src="https://img.shields.io/badge/Profile-%40Sultan0f1-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile @Sultan0f1" />
+</a>
+&nbsp;
+<a href="https://github.com/Sultan0f1?tab=repositories">
+  <img src="https://img.shields.io/badge/View-Repositories-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View GitHub repositories" />
+</a>
 
-<p>
-  Security research, vulnerability disclosures, penetration-testing tools,
-  and open-source projects.
-</p>
+</div>
 
-<p>
-  <a href="https://github.com/Sultan0f1">
-    <img
-      src="https://img.shields.io/badge/Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Visit GitHub profile"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Sultan0f1?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore_Repositories-238636?style=for-the-badge&logo=git&logoColor=white"
-      alt="Explore repositories"
-    />
-  </a>
-</p>
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/Sultan0f1">
+  <img src="https://img.shields.io/badge/GitHub-%40Sultan0f1-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub @Sultan0f1" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nicat-sultanov">
+  <img src="https://img.shields.io/badge/LinkedIn-Nicat_Sultanov-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+</a>
+
+<br />
+<br />
+
+**Open to penetration-testing and red-team internships, collaborations and junior opportunities.**
+
+<br />
+
+<sub>Security research performed responsibly and only on authorized targets.</sub>
 
 </div>
