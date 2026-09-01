@@ -116,22 +116,22 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 <div align="center">
 
+<p>
+  Security research, vulnerability disclosures, and cybersecurity projects.
+</p>
+
 <a href="https://github.com/Sultan0f1">
-  <img src="https://img.shields.io/badge/Profile-%40Sultan0f1-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile @Sultan0f1" />
+  <img
+    src="https://img.shields.io/badge/GitHub-%40Sultan0f1-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub profile"
+  />
 </a>
 &nbsp;
 <a href="https://github.com/Sultan0f1?tab=repositories">
-  <img src="https://img.shields.io/badge/View-Repositories-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View GitHub repositories" />
+  <img
+    src="https://img.shields.io/badge/Explore-Repositories-238636?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub repositories"
+  />
 </a>
-
-</div>
-
-
-**Open to penetration-testing and red-team internships, collaborations and junior opportunities.**
-
-<br/>
-<br/>
- 
-<sub>Security research performed responsibly and only on authorized targets.</sub>
 
 </div>
