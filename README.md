@@ -129,8 +129,6 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 ---
 
 
-<br />
-
 **Open to penetration-testing and red-team internships, collaborations and junior opportunities.**
 
 <br />
