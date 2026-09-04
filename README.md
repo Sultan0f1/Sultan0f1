@@ -71,7 +71,8 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 | **Tugtainer** | [GHSA-qpp3-6vj5-v5rc](https://github.com/Quenary/tugtainer/security/advisories/GHSA-qpp3-6vj5-v5rc) | Registry credential disclosure |
 | **Tugtainer** | [GHSA-4chr-wwvc-fwwp](https://github.com/Quenary/tugtainer/security/advisories/GHSA-4chr-wwvc-fwwp) | Notification SSRF protection bypass |
 | **Tugtainer** | [GHSA-8gvw-9ww4-xrc8](https://github.com/Quenary/tugtainer/security/advisories/GHSA-8gvw-9ww4-xrc8) | DNS-rebinding SSRF with response readback |
-
+| **PowerAdmin** | [GHSA-jrjh-v4q7-mrr6](https://github.com/poweradmin/poweradmin/security/advisories/GHSA-jrjh-v4q7-mrr6) | Security advisory |
+| **PowerAdmin** | [GHSA-9657-8vc2-7g2p](https://github.com/poweradmin/poweradmin/security/advisories/GHSA-9657-8vc2-7g2p) | Security advisory |
 <sub>Research is conducted only on authorized targets and disclosed responsibly.</sub>
 
 ---
