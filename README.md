@@ -115,21 +115,7 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 ---
 
-## GitHub
 
-<div align="center">
-
-<a href="https://github.com/Sultan0f1">
-  <img src="https://img.shields.io/badge/Profile-%40Sultan0f1-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile @Sultan0f1" />
-</a>
-&nbsp;
-<a href="https://github.com/Sultan0f1?tab=repositories">
-  <img src="https://img.shields.io/badge/View-Repositories-30363D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View GitHub repositories" />
-</a>
-
-</div>
-
----
 
 <br />
 
