@@ -65,6 +65,14 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 ## Selected security research
 
+**CVE-2026-86446 — LearnPress**
+
+Discovered an information disclosure vulnerability affecting LearnPress **4.4.3–4.4.6**, allowing unauthenticated users to retrieve correct quiz answers and instructor explanations for courses accessible without enrollment.
+
+Credited as the original researcher by **WPScan**. Fixed in **4.4.7**.
+
+[Read the advisory →](https://wpscan.com/vulnerability/20004b72-69f5-406f-b1e6-e88f6f6ffae7/)
+
 | Project | Advisory | Research area |
 | :--- | :--- | :--- |
 | **FileRise** | [GHSA-c55h-jw23-wqw8](https://github.com/error311/FileRise/security/advisories/GHSA-c55h-jw23-wqw8) | Security advisory |
