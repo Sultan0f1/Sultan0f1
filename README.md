@@ -149,16 +149,6 @@ Publicly documented vulnerabilities listed in the WPScan Vulnerability Database.
 
 ---
 
-### Research Methodology
-
-- Source-code review and attack-surface analysis
-- Vulnerability validation and reproducible PoCs
-- Access-control and authentication testing
-- Server-Side Request Forgery (SSRF) analysis
-- Cross-Site Request Forgery (CSRF) analysis
-- Broken Object-Level Authorization (BOLA) testing
-- Technical reporting and responsible disclosure
-
 <p align="center">
   <sub>All research is conducted on authorized targets and disclosed responsibly.</sub>
 </p>
