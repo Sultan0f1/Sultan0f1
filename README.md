@@ -63,27 +63,108 @@ It combines recon, vulnerability hunting, deterministic validation, evidence col
 
 ---
 
-## Selected security research
+---
 
-**CVE-2026-86446 — LearnPress**
+## Security Research & Responsible Disclosure
 
-Discovered an information disclosure vulnerability affecting LearnPress **4.4.3–4.4.6**, allowing unauthenticated users to retrieve correct quiz answers and instructor explanations for courses accessible without enrollment.
+<p align="center">
+  <img src="https://img.shields.io/badge/Published_Security_Records-12-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="12 published security records" />
+  <img src="https://img.shields.io/badge/CVE_IDs-2-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white" alt="2 CVE IDs" />
+  <img src="https://img.shields.io/badge/GitHub_Advisories-10-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="10 GitHub Security Advisories" />
+</p>
 
-Credited as the original researcher by **WPScan**. Fixed in **4.4.7**.
+My security research focuses on identifying, validating, and responsibly
+disclosing vulnerabilities in open-source software and web applications.
 
-[Read the advisory →](https://wpscan.com/vulnerability/20004b72-69f5-406f-b1e6-e88f6f6ffae7/)
+My work includes source-code analysis, vulnerability validation,
+reproducible proof-of-concept development, and technical reporting.
 
-| Project | Advisory | Research area |
-| :--- | :--- | :--- |
-| **FileRise** | [GHSA-c55h-jw23-wqw8](https://github.com/error311/FileRise/security/advisories/GHSA-c55h-jw23-wqw8) | Security advisory |
-| **Tugtainer** | [GHSA-qpp3-6vj5-v5rc](https://github.com/Quenary/tugtainer/security/advisories/GHSA-qpp3-6vj5-v5rc) | Registry credential disclosure |
-| **Tugtainer** | [GHSA-4chr-wwvc-fwwp](https://github.com/Quenary/tugtainer/security/advisories/GHSA-4chr-wwvc-fwwp) | Notification SSRF protection bypass |
-| **Tugtainer** | [GHSA-8gvw-9ww4-xrc8](https://github.com/Quenary/tugtainer/security/advisories/GHSA-8gvw-9ww4-xrc8) | DNS-rebinding SSRF with response readback |
-| **PowerAdmin** | [GHSA-jrjh-v4q7-mrr6](https://github.com/poweradmin/poweradmin/security/advisories/GHSA-jrjh-v4q7-mrr6) | Security advisory |
-| **PowerAdmin** | [GHSA-9657-8vc2-7g2p](https://github.com/poweradmin/poweradmin/security/advisories/GHSA-9657-8vc2-7g2p) | Security advisory |
+---
+
+### CVE Records
+
+Publicly documented vulnerabilities listed in the WPScan Vulnerability Database.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CVE-2026-86446</h3>
+      <strong>LearnPress</strong><br /><br />
+      Unauthenticated quiz-answer disclosure affecting LearnPress
+      versions 4.4.3–4.4.6. The vulnerability could expose correct
+      quiz answers and instructor explanations under the affected conditions.
+      <br /><br />
+      <a href="https://wpscan.com/vulnerability/20004b72-69f5-406f-b1e6-e88f6f6ffae7/">
+        <img src="https://img.shields.io/badge/Read_WPScan_Record-0D1117?style=flat-square&logo=readthedocs&logoColor=white" alt="Read WPScan record" />
+      </a>
+      <br /><br />
+      <sub>Reported affected versions: 4.4.3–4.4.6 · Fixed in 4.4.7</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CVE-2026-107447</h3>
+      <strong>Contest Gallery</strong><br /><br />
+      Vote-restriction bypass involving spoofable client IP information
+      and forgeable voter identity.
+      <br /><br />
+      <a href="https://wpscan.com/vulnerability/9b848bb1-8be6-4ba6-9fd0-c45997502bce/">
+        <img src="https://img.shields.io/badge/Read_WPScan_Record-0D1117?style=flat-square&logo=readthedocs&logoColor=white" alt="Read WPScan record" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Security Advisories
+
+#### Tugtainer
+
+| Advisory | Vulnerability |
+|:---|:---|
+| [GHSA-8gvw-9ww4-xrc8](https://github.com/Quenary/tugtainer/security/advisories/GHSA-8gvw-9ww4-xrc8) | DNS-rebinding SSRF with response readback |
+| [GHSA-4chr-wwvc-fwwp](https://github.com/Quenary/tugtainer/security/advisories/GHSA-4chr-wwvc-fwwp) | SSRF protection bypass through non-canonical IPv4 representation |
+| [GHSA-qpp3-6vj5-v5rc](https://github.com/Quenary/tugtainer/security/advisories/GHSA-qpp3-6vj5-v5rc) | Registry credential disclosure |
+
+#### FileRise
+
+| Advisory | Vulnerability |
+|:---|:---|
+| [GHSA-c55h-jw23-wqw8](https://github.com/error311/FileRise/security/advisories/GHSA-c55h-jw23-wqw8) | HTML interpretation of storage-originated folder names |
+
+#### Poweradmin
+
+| Advisory | Vulnerability |
+|:---|:---|
+| [GHSA-jrjh-v4q7-mrr6](https://github.com/poweradmin/poweradmin/security/advisories/GHSA-jrjh-v4q7-mrr6) | CSRF and authorization checks bypass in bulk deletion endpoints |
+| [GHSA-9657-8vc2-7g2p](https://github.com/poweradmin/poweradmin/security/advisories/GHSA-9657-8vc2-7g2p) | Weak email second-factor verification without an attempt limit |
+
+#### phpMyFAQ
+
+| Advisory | Vulnerability |
+|:---|:---|
+| [GHSA-7j43-ww55-pm3g](https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-7j43-ww55-pm3g) | Unauthorized superadmin account deletion |
+| [GHSA-j3px-r7cr-r26r](https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-j3px-r7cr-r26r) | Broken Object-Level Authorization (BOLA) |
+| [GHSA-6x9g-rfx8-g42q](https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-6x9g-rfx8-g42q) | CSRF enabling unauthorized database migrations |
+| [GHSA-cmvh-fpmf-8gfx](https://github.com/thorsten/phpMyFAQ/security/advisories/GHSA-cmvh-fpmf-8gfx) | CSRF affecting Elasticsearch/OpenSearch index operations |
+
+---
+
+### Research Methodology
+
+- Source-code review and attack-surface analysis
+- Vulnerability validation and reproducible PoCs
+- Access-control and authentication testing
+- Server-Side Request Forgery (SSRF) analysis
+- Cross-Site Request Forgery (CSRF) analysis
+- Broken Object-Level Authorization (BOLA) testing
+- Technical reporting and responsible disclosure
+
+<p align="center">
+  <sub>All research is conducted on authorized targets and disclosed responsibly.</sub>
+</p>
 
 
-<sub>Research is conducted only on authorized targets and disclosed responsibly.</sub>
+
 
 ---
 
